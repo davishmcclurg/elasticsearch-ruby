@@ -60,8 +60,7 @@ SUBPROJECTS = [
   'elasticsearch',
   'elasticsearch-transport',
   'elasticsearch-dsl',
-  'elasticsearch-api',
-  'elasticsearch-xpack'
+  'elasticsearch-api'
 ].freeze
 
 RELEASE_TOGETHER = [
